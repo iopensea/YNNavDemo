@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Apple 6S</string>
+	<string>Apple 6 Plus</string>
+	<string>Apple 6</string>
+	<string>Apple 5 Plus</string>
+	<string>Apple 5S</string>
+	<string>Apple 5</string>
+	<string>Apple IV</string>
+	<string>Apple III Plus</string>
+	<string>Apple III</string>
+	<string>Apple II</string>
+	<string>Apple I</string>
+</array>
+</plist>
